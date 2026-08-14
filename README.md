@@ -43,6 +43,7 @@ OBLIQ-RAG-Prototype/
 ├── 4-ask_questions.py
 ├── .gitignore
 └── README.md
+```
 
 ## Purpose
 
